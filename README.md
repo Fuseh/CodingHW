@@ -3,6 +3,7 @@
 
 + All my programming is done on [IntelliJ](https://www.jetbrains.com/idea/). Be sure to check them out 🍟🍔
 + All my code for each assignment can be found in this repository.
++ My answers for each coding assignment is also linked right below each question.
 
 ***
 ### 🧊Assignment #1 (November 25, 2021): 
@@ -26,7 +27,8 @@ by one until the last line has only one asterisks remaining. For example if the 
 
 Finally, print a goodbye message to the user and tell them how many stars were shown on the screen in total. For the above example it will be 10.
 
- 
+[Link to My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment2.java)
+
 ***
 # More assignments to come!
 ***
