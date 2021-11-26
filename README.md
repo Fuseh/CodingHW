@@ -1,4 +1,4 @@
-# CodingHW 🍟🍔
+# CodingPRAC 🍟🍔
 💎Follow me as I go down the path of the mastery of JAVA Programming.
 
 + All my programming is done on [IntelliJ](https://www.jetbrains.com/idea/). Be sure to check them out 🍟🍔
