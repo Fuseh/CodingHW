@@ -2,27 +2,18 @@ import java.util.Scanner;
 public class CodingHW {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter any number between 1 and 10");
+        System.out.println("Enter any number between 1 and 30");
 
         Integer asterisk = input.nextInt();
-        if(asterisk > 10){
-            System.out.println("You have entered an invalid number. Shutting down...");
-            System.exit(0);
+        System.out.println("You have entered " + asterisk + " as your number. I will now print it in asterisks:");
+        System.out.println();
+        for(int i = 0; i < asterisk; i++){
+            System.out.print("*");
         }
-        else if(asterisk < 1){
-            System.out.println("You have entered an invalid number. Shutting down...");
-            System.exit(0);
-        }
-        else{
-            System.out.println("You have entered " + asterisk + ". Continuing...");
-        }
-        for(int i = asterisk; i > 0; i--){
-            int j = 0;
-            while(j < i){
-                System.out.print("*");
-                j += 1;
-            }
-            System.out.println();
-        }
+
+        System.out.println();
+        System.out.println();
+        System.out.println(asterisk + " asterisks were just displayed on the screen!");
+        System.out.println("Goodbye and thank you for playing my game! :)");
     }
 }
