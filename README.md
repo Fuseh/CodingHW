@@ -43,7 +43,9 @@ square (this should be a number). Then ask the user to input the character they 
 For example, if the the user inputted "3" and "$", the output should look like this:
 
 $$$
+
 $$$
+
 $$$
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment4.java)
