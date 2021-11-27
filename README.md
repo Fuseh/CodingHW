@@ -36,6 +36,19 @@ print the sum of the array. On the following line print the average of the array
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment3.java)
 
+### 🧊Assignment #4 (November 27, 2021): 
+
+Print a message telling the user that you will produce a square of any size in their choice of character. Ask the user to input the size of the 
+square (this should be a number). Then ask the user to input the character they want their square to be made of. Produce a square in the character the user inputted. 
+For example, if the the user inputted "3" and "$", the output should look like this:
+
+$$$
+$$$
+$$$
+
+[Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment4.java)
+
+
 ***
 # More assignments to come!
 ***
