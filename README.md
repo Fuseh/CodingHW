@@ -29,6 +29,13 @@ Finally, print a goodbye message to the user and tell them how many stars were s
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment2.java)
 
+### 🧊Assignment #3 (November 26, 2021): 
+Prompt the user to enter three numbers (in separate prompts). These numbers can be integers, real numbers, or positive/negative numbers. Take the numbers 
+the user inputted and store them in an array. Then, produce an output in one row the three numbers the user input separated by a ",". On the next line
+print the sum of the array. On the following line, print the average of the array. Finally, thank them for their time.
+
+[Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment3.java)
+
 ***
 # More assignments to come!
 ***
