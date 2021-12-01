@@ -9,10 +9,22 @@ public class Assignment5{
         System.out.println();
         System.out.print("Counting up from 1 to " + userInput + ": ");
         for(int i = 1; i < userInput; i++){
-            System.out.print(userInput * 0 + i);
+            System.out.print(i);
             System.out.print(" ");
         }
         System.out.println(userInput);
+        System.out.println();
+        System.out.println("Cool! Enter another number and I will count up from one to that integer.");
+        userInput = sc.nextInt();
+        System.out.println();
+        int i = 0;
+        while(i < userInput){
+            i++;
+            System.out.print(i);
+            System.out.print(" ");
+        }
+
+        System.out.println();
         System.out.println();
         System.out.println("Thank you for your time!");
     }
