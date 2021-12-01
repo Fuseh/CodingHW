@@ -51,10 +51,10 @@ $$$
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment4.java)
 
-### 🧊Assignment #5 (Additional For-Loop Practice): ▄︻デ11.27.2021══━一
+### 🧊Assignment #5 (Additional For and While-Loop Practice): ▄︻デ11.27.2021══━一
 
-Prompt the user to enter any positive integer. Then display the numbers from one to the user-inputted integer using a for loop. For example, if the user inputted 11, the 
-output should look like this:
+Prompt the user to enter any positive integer. Then display the numbers from one to the user-inputted integer using a for loop and a while loop (in two separate sections).
+For example, if the user inputted 11, the output should look like this:
 
 1 2 3 4 5 6 7 8 9 10 11
 
