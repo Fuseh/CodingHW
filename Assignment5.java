@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Assignment5{
     public static void main(String[] args) {
-        System.out.println("**************************************************************************");
+        System.out.println("*************************************************************************");
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter any positive integer and I will count up from one to that integer!");
 
