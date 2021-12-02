@@ -38,7 +38,6 @@ print the sum of the array. On the following line print the average of the array
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment3.java)
 
 ### 🧊Assignment #4 (Introduction to Nested For-Loops): ▄︻デ11.27.2021══━一
-
 Print a message telling the user that you will produce a square of any size in their choice of character. Ask the user to input the size of the 
 square (this should be a number). Then ask the user to input the character they want their square to be made of. Produce a square in the character the user inputted. 
 For example, if the the user inputted "3" and "$", the output should look like this:
@@ -52,7 +51,6 @@ $$$
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment4.java)
 
 ### 🧊Assignment #5 (Additional For and While-Loop Practice): ▄︻デ11.27.2021══━一
-
 Prompt the user to enter any positive integer. Then display the numbers from one to the user-inputted integer using a for loop and a while loop (in two separate sections).
 For example, if the user inputted 11, the output should look like this:
 
@@ -61,13 +59,21 @@ For example, if the user inputted 11, the output should look like this:
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment5.java)
 
 ### 🧊Assignment #6 (Additional For and While Loop Practice): ▄︻デ12.01.2021══━一
-
 Prompt the user to enter any positive integer. Then display the numbers from the user-inputted integer to zero using a for loop and a while loop (in two separate sections).
 For example, if the user inputted 11, the output should look like this:
 
 11 10 9 8 7 6 5 4 3 2 1 0
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment6.java)
+
+### 🧊Assignment #7 (Introduction to Switch-Case Statements): ▄︻デ12.01.2021══━一
+Prompt the user to enter an integer between zero and nine. Ensure that their input falls under these conditions, otherwise inform them that it is an invalid number and exit the program. If your program recognizes their input as a valid number, print their number as a word using a Switch-Case Statement. For example, the output would go as follows:
+
+3 ➜ Three
+
+8 ➜ Eight
+
+[Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment7.java)
 
 
 ***
