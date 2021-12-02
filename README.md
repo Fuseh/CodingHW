@@ -60,7 +60,7 @@ For example, if the user inputted 11, the output should look like this:
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment5.java)
 
-### 🧊Assignment #6 (Additional For-Loop Practice): ▄︻デ12.01.2021══━一
+### 🧊Assignment #6 (Additional For and While Loop Practice): ▄︻デ12.01.2021══━一
 
 Prompt the user to enter any positive integer. Then display the numbers from the user-inputted integer to zero using a for loop and a while loop (in two separate sections).
 For example, if the user inputted 11, the output should look like this:
