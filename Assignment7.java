@@ -37,7 +37,7 @@ public class Assignment7{
                     break;
             case 9: letterNumber = "Nine";
                     break;
-            //Lines 41 and 42 do not contribute anything to the code, however they are necessary to complete a Switch Case Statement.
+            //Lines 41 and 42 do not contribute anything to the code, however they are necessary to complete Switch Case Statements in general.
             default: letterNumber = "Invalid Month";
                     break;
         }
