@@ -73,6 +73,8 @@ Prompt the user to enter an integer between zero and nine. Ensure that their inp
 
 8 ➜ Eight
 
+Finally, print a goodbye message to the user thanking them.
+
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment7.java)
 
 
