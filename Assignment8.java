@@ -34,7 +34,7 @@ public class Assignment8 {
 
         String userInput = sc.nextLine();
         //Searches through the Countries ArrayList and stops as soon as it finds an element that matches with the user input.
-        //Stores the index at which it found the user input and then looks for the element in the Capitals ArrayList in order to print the respective Capital City.
+        //Stores the index at which it found the user input and then looks for the element in the Capitals ArrayList which matches that input.
         //Includes an error handling "else if" statement which exists in case the user enters an invalid country.
         for (int i = 0; i < Countries.size(); i++) {
             if (userInput.equals(Countries.get(i))) {
