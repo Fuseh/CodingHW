@@ -77,6 +77,19 @@ Finally, print a goodbye message to the user thanking them.
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment7.java)
 
+### 🧊Assignment #8 (Introduction to ArrayLists): ▄︻デ12.03.2021══━一
+Create a country name ArrayList with the values:
+
+* "USA", "UK", "Australia", "Japan", "Singapore", "Sri Lanka", "France", "Canada". 
+
+Then create a capitals ArrayList with the values:
+
+* "Washington DC", "London", "Canberra", "Tokyo", "Singapore", "Colombo", "Paris", "Ottowa".
+
+Prompt the user to enter a country name from the list above. If the user enters a country that is not recognized on the list, inform them that they entered an invalid country and list the countries that the program can work with. Once the user enters a valid country, display the capital of that country. 
+
+[Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment8.java)
+
 
 ***
 # More assignments to come!
