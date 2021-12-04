@@ -90,6 +90,15 @@ Prompt the user to enter a country name from the list above. If the user enters 
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment8.java)
 
+### 🧊Assignment #9 (Practice of Every Concept Reviewed So Far): ▄︻デ12.03.2021══━一
+Prompt the user to enter the names of their friends, one by one. You want to get multiple inputs in multiple occurences, under the same scanner. Set up a while loop and exit the while loop if the user entered "exit". Inside that while loop, do the following:
+
+- Print a message asking the user to enter their next friend's name (This should only be used after they have entered at least one input.
+- Store the entered name as the next element in an arraylist.
+
+Outside the while loop, return the list of the user's friends. If the user has more than five friends, return a message in which you seem impressed. If the user has one friend, congratulate them for having a best friend. If the user has zero friends, offer to be their friend.
+
+[Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment9.java)
 
 ***
 # More assignments to come!
