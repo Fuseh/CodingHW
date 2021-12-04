@@ -43,7 +43,7 @@ public class Assignment9{
             System.out.println("Nice! You have a best friend.");
         }
         else if(Friends.size() == 0){
-            System.out.println("Damn, you are one lonely person.");
+            System.out.println("Damn, you are one lonely person. I can be your friend, pal!");
         }
         else{
             System.out.println(Friends.size() + " friends seems like a nice and small friend group! Good for you pal.");
