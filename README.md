@@ -100,7 +100,7 @@ Outside the while loop, return the list of the user's friends. If the user has m
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment9.java)
 
-### 🧊Assignment #10 (Practice of Every Concept Reviewed So Far): ▄︻デ12.06.2021══━一
+### 🧊Assignment #10 (Introduction to Functions + Working w/ Larger LOC's): ▄︻デ12.06.2021══━一
 This application is for Boston University to maintain a list of all its students.
 
 You will need to create three arraylists: student name, student grade, student gpa.
