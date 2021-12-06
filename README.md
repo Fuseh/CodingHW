@@ -148,7 +148,7 @@ End of the loop.
    The student you entered is not enrolled in BU at this point", and exit the function.
   
   - If the student name exists in the arraylist, remove that element from the student name, student grade and gpa arraylists, and display the message:
-   "Student successfully removed LHS. We wish them the best!".
+   "Student successfully removed BU. We wish them the best!".
 
 * The change student function should do the following:
 
@@ -179,7 +179,7 @@ End of the loop.
     - At the end, display: "The total number of students with a GPA of 4.0 or better is: " + count. If there were none, display: "Unfortunately there are
      no students with a high GPA at this time at BU".
   
-   - Print the message: "The average GPA of all LHS students is: " + average. 
+   - Print the message: "The average GPA of all BU students is: " + average. 
   
    - Print the message: "Total number of students currently enrolled at BU is: " + total student count.
 
