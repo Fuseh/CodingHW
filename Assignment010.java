@@ -8,6 +8,7 @@ public class Assignment10{
             ArrayList<String> studentName = new ArrayList<>();
             ArrayList<Integer> studentGrade = new ArrayList<>();
             ArrayList<Double> studentGPA = new ArrayList<>();
+                
             System.out.println("Welcome to the BU Student Inventory System");
             boolean inputted = true;
 
@@ -87,7 +88,9 @@ public class Assignment10{
                     studentName.remove(i);
                     studentGrade.remove(i);
                     studentGPA.remove(i);
+                        
                     System.out.println("Student successfully removed BU. We wish them the best!");
+                        
                     studentRemoved = true;
                     break;
                 }
@@ -108,13 +111,17 @@ public class Assignment10{
             for(int i = 0; i < studentName.size(); i++){
                 if(updatedInfo.equals(studentName.get(i))){
                     System.out.println("Please enter student's grade to change (between 9th and 12th grade):");
+                        
                     Integer newGrade = changeDetails.nextInt();
                     studentGrade.remove(i);
                     studentGrade.add(i, newGrade);
+                        
                     System.out.println("Please enter the updated GPA of this student:");
+                        
                     Double newGPA = changeDetails.nextDouble();
                     studentGPA.remove(i);
                     studentGPA.add(i, newGPA);
+                        
                     studentUpdated = true;
                     break;
                 }
@@ -129,10 +136,12 @@ public class Assignment10{
         public static String reportStats(ArrayList<String> studentName, ArrayList<Integer> studentGrade, ArrayList<Double> studentGPA){
             System.out.println("Here are the details of the students of BU!");
             System.out.println();
+                
             ArrayList<String> highGPA = new ArrayList<>();
             boolean numOfHighGPA = false;
             boolean printed = false;
             Double total = 0.0;
+                
             for(int i = 0; i < studentName.size(); i++){
                 if(studentGPA.get(i) >= 4.0){
                     if(printed == false){
@@ -140,6 +149,7 @@ public class Assignment10{
                         printed = true;
                     }
                         System.out.print(studentName.get(i) + " ");
+                        
                         highGPA.add(studentName.get(i));
                         numOfHighGPA = true;
 
