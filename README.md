@@ -100,6 +100,92 @@ Outside the while loop, return the list of the user's friends. If the user has m
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment9.java)
 
+### 🧊Assignment #10 (Practice of Every Concept Reviewed So Far): ▄︻デ12.06.2021══━一
+This application is for Boston University to maintain a list of all its students.
+
+You will need to create three arraylists: student name, student grade, student gpa.
+* Inside a while loop:
+
+   - Print a message saying "Welcome to the BU Student Inventory System".
+   
+   - Print a bunch of "*" as an underline to the welcome banner.
+   
+   - Print the message: "Type one of the menu options: 1. Add a student  2. Remove a Student  3. Change Student Details 4. Statistics 5. Exit"
+   
+   - Read the users input; the input has to be 1,2,3,4 or 5. If they enter an invalid value then display the message:
+    "Invalid option chosen", and redisplay the menu options.
+   
+   - If the user selected 5, exit the loop and the entire program with the final message: "You have successfully exited the student maintenance system. Have a great day!".
+   
+   - If they selected 1, call the function for adding a student.
+   
+   - If they selected 2, call the function for removing a student.
+   
+   - If they selected 3, call the function for updating a student's details.
+   
+   - If they selected 4, call the function for reporting the key statistics of the student body.
+ 
+End of the loop.
+
+* The add student function should do the following:
+
+   - Print the message: "Adding new student. Please enter student's full name: ", and read the student name from user input and add it to the student name arraylist.
+   
+   - Print the message: "Please enter student's grade (between 9th and 12th grade): ", and read the student grade from user input and add it to the student grade
+    arraylist after checking that it is a valid grade for BU.
+    
+   - Check that the input is between 9 and 12. If the input is outside that value, then add the student to 9th grade by default. 
+   
+   - Print the message: "Please enter the student's GPA (between 0 and 5.0): ", and read the GPA from the user input and add it to the gpa arraylist.
+   
+   - If the entered value is outside of 0 - 5.0, then set it to 3.5 by default.
+
+* The remove student function should do the following:
+
+  - Print the message: "Please enter the name of the student to be removed from BU:" and read the student fullname.
+  
+  - Search the student name arraylist to find the student name. If it does not exist in the list, then display the message: "Student NOT removed. 
+   The student you entered is not enrolled in BU at this point", and exit the function.
+  
+  - If the student name exists in the arraylist, remove that element from the student name, student grade and gpa arraylists, and display the message:
+   "Student successfully removed LHS. We wish them the best!".
+
+* The change student function should do the following:
+
+    - Print the message: "Please enter the name of the student to be removed from BU: " and read the student fullname.
+    
+    - Search the student name arraylist to find the student name. If it does not exist in the list, display the message: "Student not found. The name 
+     you entered does not belong to a student who is currently enrolled in BU at this point", and exit the function.
+    
+    - If the student name exists in the arraylist, print the message: "Please enter student's grade to change (between 9th and 12th grade): ", and read the 
+     student grade from user input and update the student grade arraylist after checking if it is a valid grade for BU. 
+      
+    - Check that the input is between 9 and 12. If the input is outside that value, do not make any changes.
+    
+    - Print the message: "Please enter the student's GPA to change (between 0 and 5.0): ", and read the GPA from the user input and update the gpa arraylist after checking
+      if it is a valid GPA for BU.
+    
+    - If the value is outside of 0 - 5.0, set the new GPA to 3.5 by default.
+   
+    - Print the message: "Student details successfully updated".
+
+* The report stats function should do the following:
+
+    - Print the message: "Here are the details of the students attending BU!".
+    
+    - Print the message: "These are the students who are performing well in school: ", and read through the three arraylists while searching for any students 
+     with a GPA >= 4.0. 
+    
+    - At the end, display: "The total number of students with a GPA of 4.0 or better is: " + count. If there were none, display: "Unfortunately there are
+     no students with a high GPA at this time at BU".
+  
+   - Print the message: "The average GPA of all LHS students is: " + average. 
+  
+   - Print the message: "Total number of students currently enrolled at BU is: " + total student count.
+
+[Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment010.java)
+  
+  
 ***
 # More assignments to come!
 ***
