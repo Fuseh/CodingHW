@@ -3,6 +3,7 @@ import java.util.Arrays;
 
 public class Assignment12{
     public static void main(String[] args){
+        System.out.println("********************************************************************");
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your five favorite dishes below: ");
         String Dishes = sc.nextLine();
@@ -24,5 +25,7 @@ public class Assignment12{
         System.out.println();
         System.out.print("These are your favorite dishes: ");
         System.out.print(Arrays.toString(favDishes));
+        
+        System.out.println("********************************************************************");
     }
 }
