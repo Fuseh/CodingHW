@@ -185,7 +185,12 @@ End of the loop.
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment010.java)
   
-  
+### 🧊Assignment #11 (Simple Arrays Practice Part 1): ▄︻デ12.12.2021══━一  
+Use an array to store the nine planets in the solar system in order of distance from the sun. Ask the user to input a number between 1 and 9. 
+Display the planet that corresponds to that number. If the number is outside of 1 - 9 then list out all the planets in reverse order.
+
+[Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment011.java)
+
 ***
 # More assignments to come!
 ***
