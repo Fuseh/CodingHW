@@ -191,6 +191,12 @@ Display the planet that corresponds to that number. If the number is outside of 
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment011.java)
 
+### 🧊Assignment #12 (Simple Arrays Practice Part 2): ▄︻デ12.12.2021══━一  
+Prompt the user to enter five of their favorite food dishes and store each of these in an array. Once all five have been entered, display 
+"These are your favorite dishes:" and display all five.
+
+[Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment012.java)
+
 ***
 # More assignments to come!
 ***
