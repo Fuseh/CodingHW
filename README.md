@@ -41,19 +41,19 @@ Print a message telling the user that you will produce a square of any size in t
 square (this should be a number). Then ask the user to input the character they want their square to be made of. Produce a square in the character the user inputted. 
 For example, if the the user inputted "3" and "$", the output should look like this:
 
-$$$
-
-$$$
-
-$$$
-
+    $$$
+                
+    $$$
+                
+    $$$
+               
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment004.java)
 
 ### 🧊Assignment #5 (Additional For and While-Loop Practice): ▄︻デ11.27.2021══━一
 Prompt the user to enter any positive integer. Then display the numbers from one to the user-inputted integer using a for loop and a while loop (in two separate sections).
 For example, if the user inputted 11, the output should look like this:
 
-1 2 3 4 5 6 7 8 9 10 11
+    1 2 3 4 5 6 7 8 9 10 11
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment005.java)
 
@@ -61,16 +61,16 @@ For example, if the user inputted 11, the output should look like this:
 Prompt the user to enter any positive integer. Then display the numbers from the user-inputted integer to zero using a for loop and a while loop (in two separate sections).
 For example, if the user inputted 11, the output should look like this:
 
-11 10 9 8 7 6 5 4 3 2 1 0
+    11 10 9 8 7 6 5 4 3 2 1 0
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment006.java)
 
 ### 🧊Assignment #7 (Introduction to Switch-Case Statements): ▄︻デ12.01.2021══━一
 Prompt the user to enter an integer between zero and nine. Ensure that their input falls under these conditions, otherwise inform them that it is an invalid number and exit the program. If your program recognizes their input as a valid number, print their number as a word using a Switch-Case Statement. For example, the output would go as follows:
 
-3 ➜ Three
-
-8 ➜ Eight
+    3 ➜ Three
+    
+    8 ➜ Eight
 
 Finally, print a goodbye message to the user thanking them.
 
@@ -79,12 +79,11 @@ Finally, print a goodbye message to the user thanking them.
 ### 🧊Assignment #8 (Introduction to ArrayLists): ▄︻デ12.03.2021══━一
 Create a country name ArrayList with the values:
 
-* "USA", "UK", "Australia", "Japan", "Singapore", "Sri Lanka", "France", "Canada". 
+    * "USA", "UK", "Australia", "Japan", "Singapore", "Sri Lanka", "France", "Canada".
 
-Then create a capitals ArrayList with the values:
+       Then create a capitals ArrayList with the values:
 
-* "Washington DC", "London", "Canberra", "Tokyo", "Singapore", "Colombo", "Paris", "Ottowa".
-
+    * "Washington DC", "London", "Canberra", "Tokyo", "Singapore", "Colombo", "Paris", "Ottowa".
 Prompt the user to enter a country name from the list above. If the user enters a country that is not recognized on the list, inform them that they entered an invalid country and list the countries that the program can work with. Once the user enters a valid country, display the capital of that country. 
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment008.java)
