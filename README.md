@@ -17,14 +17,13 @@ Prompt the user to enter a number between 1 and 10. Ensure that the user entered
 If the user entered a valid number, print a string of asterisks equal to the number the user entered on the first line and in each subsequent line reduce the number of asterisks 
 by one until the last line has only one asterisks remaining. For example if the user entered 4, the output should look like this (with asterisks):
 
-. . . .
-
-. . .
-
-. .
-
-.
-
+    . . . . 
+                 
+    . . .
+                 
+    . .
+                 
+    .
 Finally, print a goodbye message to the user and tell them how many stars were shown on the screen in total. For the above example it will be 10.
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment002.java)
@@ -196,6 +195,19 @@ Prompt the user to enter five of their favorite food dishes and store each of th
 "These are your favorite dishes:" and display all five.
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment012.java)
+
+### 🧊Assignment #13 (Introduction to 2D Arrays): ▄︻デ12.15.2021══━一  
+Create a two dimensional array. The first dimension should hold the student's name and the corresponding 2nd dimension should hold the gender. Fill up the array as follows:
+
+                {Amy, F},
+                {Ryan, M},
+                {Katy, F},
+                {Phillip, M},
+                {Sally, F},
+                {Max, M}
+Next, prompt the user to input which gender list they would like to view. If they entered "M" or "Male" then display all the male students. If they entered "F" or "Female", then display only the female students only.
+
+[Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment013.java)
 
 ***
 # More assignments to come!
