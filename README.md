@@ -208,6 +208,26 @@ Next, prompt the user to input which gender list they would like to view. If the
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment013.java)
 
+### 🧊Assignment #14 (Reading and Locating Files from Harddrive): ▄︻デ1.31.2021══━一  
+Create a text file and store it on your computer with the following values: 
+
+                {Australia, Canberra},
+                {New Zealand, Wellington},
+                {China, Beijing},
+                {USA, Washington DC},
+                {UK, London},
+                {Singapore, Singapore},
+                {Japan, Tokyo},
+                {Sri Lanka, Colombo},
+                {Fiji, Suva},
+
+Iterate through the text file in your code, row by row; store each row in an arraylist. You should have an arraylist for the name of the country and an arraylist
+for the name of the capital of that corresponding country. Prompt the user to enter a country, then scan through the capitals arraylist and print the respective capital of the country.
+
+* Error Handling: If the user gave an input that is not a country in the file, inform them that the program does not recognize their input, and ask them to enter something else.
+
+
+
 ***
 # More assignments to come!
 ***
