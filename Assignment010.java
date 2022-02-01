@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class Assignment10{
         public static void main(String[] args){
-            System.out.println("**********************************************************************************************************************");
+            System.out.println("***********************************************************************************************************************");
 
             ArrayList<String> studentName = new ArrayList<>();
             ArrayList<Integer> studentGrade = new ArrayList<>();
