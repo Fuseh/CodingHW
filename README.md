@@ -226,6 +226,8 @@ for the name of the capital of that corresponding country. Prompt the user to en
 
 * Error Handling: If the user gave an input that is not a country in the file, inform them that the program does not recognize their input and ask them to try again.
 
+[Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment014.java)
+
 ***
 # More assignments to come!
 ***
