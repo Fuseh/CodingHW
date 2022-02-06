@@ -230,7 +230,7 @@ for the name of the capital of that corresponding country. Prompt the user to en
 
 ### 🧊Assignment #15 (Getting Specific Index Positions): ▄︻デ2.06.2021══━一  
 Prompt the user to enter a message of any length. Count the number of words, characters, and sentences, in the user's message. In order to do this,
-make use of the CharAt method that is already available in the Java API.
+make use of the CharAt() method that is already available in the Java API.
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment015.java)
 
