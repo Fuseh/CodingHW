@@ -25,7 +25,6 @@ public class Assignment14 {
                     Capitals.add(capitalName.trim());
 
                 }
-                //System.out.println(data);
             }
 
             System.out.println("-------------------------------------------------------------------------------");
@@ -40,7 +39,7 @@ public class Assignment14 {
             e.printStackTrace();
         }
 
-        //Prompting the user to enter a country
+        //Prompt the user to enter a country
         //Return capital city of corresponding country
         Scanner sc = new Scanner(System.in);
         System.out.println();
