@@ -14,7 +14,7 @@ public class Assignment16 {
         System.out.println("This is the method that does not rely on recursion: " + mathIsFun(userInput));
 
         //Method using recursion (refer to lines 37-46):
-        System.out.println("This is the method using recursion: " + mathIsVeryFun(count, userInput));
+        System.out.println("This is the method that relies on recursion: " + mathIsVeryFun(count, userInput));
 
         System.out.println();
         System.out.println("***********************************************************************************************************************");
