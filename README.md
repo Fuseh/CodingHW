@@ -248,6 +248,17 @@ As mentioned, first try building this using for/while loops, then do so using re
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment016.java)
 
+### 🧊Assignment #17 (Listing Files in a User's Directory): ▄︻デ2.13.2021══━一  
+Prompt the user to input a folder/directory name from their computer by copying the path file of any location of their choice, as showed below:
+
+    "C:\Users\JohnLovesMacaroni\Downloads"
+
+Once receiving a directory from the user's PC, list out all the files and sub-folders within that directory. Include an error handling within your code for when the directory that the user entered cannot be found.
+
+* Note: Keep in mind that the function of this program is to simply display all the files in a certain location of the user's PC. Therefore, only the user can run this program on their on computer, as it is not possible to access someone else's files without administrative permissions.
+
+[Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment017.java)
+
 ***
 # More assignments to come!
 ***
