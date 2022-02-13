@@ -23,8 +23,6 @@ public class Assignment17 {
 
             Scanner myReader = new Scanner(f);
 
-
-
             myReader.close();
 
             //Error handling for if the directory is not found in the user-inputted folder.
@@ -32,9 +30,6 @@ public class Assignment17 {
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
-
-
-
 
     }
 }
