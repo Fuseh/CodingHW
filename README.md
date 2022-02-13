@@ -234,7 +234,7 @@ make use of the CharAt() method that is already available in the Java API.
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment015.java)
 
-### 🧊Assignment #15 (Introduction to Recursion): ▄︻デ2.07.2021══━一  
+### 🧊Assignment #16 (Introduction to Recursion): ▄︻デ2.07.2021══━一  
 For this assignment, you can use both recursion and while/for loop. Begin by prompting the user to enter any number between 1 and 9. For the number entered, calculate the sum of each number raised to its equal power. For example,
 if the user entered "3", your calculation process should goes as follows:
 
