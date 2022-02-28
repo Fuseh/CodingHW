@@ -259,6 +259,22 @@ Once receiving a directory from the user's PC, list out all the files and sub-fo
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment017.java)
 
+### 🧊Assignment #18 (Introduction to HashMap's): ▄︻デ2.13.2021══━一  
+You are assigned to design a website with user profiles. Create a database of random usernames and passwords, as shown below:
+
+    |      Username      |      Password      |
+    |   "bobbyJoe1996"   |   "FluffyP0nies!"  |
+    | "HelloKittyFan21"  |    "AloeVera?!"    |
+    |   "coolguyswag"    |   "password123!"   |
+    |  "PringleLover54"  |   "FluffyP0nies!"  |
+    |  "FrenchBaguette"  |   "RIPGRAMPS2019!" |
+
+Next, prompt the user to enter their desired username followed by a secure password. You will want to begin this assignment by initializing a HashMap and working from there. Look through the Java API for a list of HashMap commands/methods and see what you can put together.
+
+Error Handling: If the username already exists in the database, inform the user that the username is not available and let them try again. Once they have entered a unique username, make sure that their password is "secure" (you can set the paramaters for this as you like).
+    
+[Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment018.java)
+
 ***
 # More assignments to come!
 ***
