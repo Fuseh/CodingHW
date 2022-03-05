@@ -259,7 +259,7 @@ Once receiving a directory from the user's PC, list out all the files and sub-fo
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment017.java)
 
-### 🧊Assignment #18 (Introduction to HashMap's): ▄︻デ2.13.2021══━一  
+### 🧊Assignment #18 (Introduction to HashMaps): ▄︻デ2.13.2021══━一  
 You are assigned to design a website with user profiles. Create a database of random usernames and passwords, as shown below:
 
     |      Username      |      Password      |
@@ -274,6 +274,56 @@ Next, prompt the user to enter their desired username followed by a secure passw
 * Error Handling: If the username already exists in the database, inform the user that the username is not available and let them try again. Once they have entered a unique username, make sure that their password is "secure" (you can set the paramaters for this as you like).
     
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment018.java)
+
+### 🧊Assignment #19 (Grasping a better understanding of HashMap commands): ▄︻デ2.13.2021══━一  
+Using a HashMap, create a list of the first 16 US Presidents with their full name and year served in office, as shown below:
+
+    |    "George Washington"   | "1789 - 1797" |
+    |       "John Adams"       | "1797 - 1801" |
+    |    "Thomas Jefferson"    | "1801 - 1809" |
+    |      "James Madison"     | "1809 - 1817" |
+    |       "James Monroe"     | "1817 - 1825" |
+    |    "John Quincy Adams"   | "1825 - 1829" |
+    |      "Andrew Jackson"    | "1829 - 1837" |
+    |    "Martin van Buren"    | "1837 - 1841" |
+    | "William Henry Harrison" | "1841 - 1841" |
+    |       "John Tyler"       | "1841 - 1845" |
+    |       "James Polk"       | "1845 - 1849" |
+    |     "Zachary Taylor"     | "1849 - 1850" |    
+    |    "Millard Fillmore"    | "1850 - 1853" |
+    |     "Franklin Pierce"    | "1853 - 1857" |
+    |      "James Buchanan"    | "1857 - 1861" |
+    |     "Abraham Lincoln"    | "1861 - 1865" |    
+    
+* Display a message that welcomes to the user to the Presidential Database. 
+
+    - Using a Scanner class, prompt the user to enter a President's full name, sequence, or year served in office.
+    - Make a second scanner and gather data on which method the user would like to use to search for a President's info.
+    - Once acquiring this data, explain to the user the format in which they need to enter a second input for one of the three options.
+    - For example, for the President's full name, have them appropriately capitalize the first and last name and also include a space in between.
+    - For the sequence, have the user enter the order in which the President was in office (ex: George Washington = 1).
+    - For the year, have the user enter the four digit year that the President served their term(s) in.
+
+* President's full name method:
+
+      For this method, you will want to iterate through your HashMap using an enhanced for-loop. Decide on whether you 
+      want to sort through the KeySets of the HashMap or the Values. Make sure that you include error handling for if
+      the user input is not an existing President's name.
+
+* President's year method:
+
+      For this method, you will want to iterate through your HashMap using an enhanced for-loop. Decide on whether you 
+      want to sort through the KeySets of the HashMap or the Values. You will want to approach the problem by using a 
+      split() method function. Put the list of years from the HashMap into an Array and sort any character in front of
+      your split() method into the first index of an array and anything after into the second index of that same array.
+      Afterwards, compare the user-inputted year using greater than and less than signs. Be sure to include error 
+      handling for if a President was not in office during the user-inputted year.
+      
+* President's sequence method: 
+
+         
+
+It is highly recommended that you reference the Java API on HashMaps in order to gain a better understanding on which methods to use. LINK
 
 ***
 # More assignments to come!
