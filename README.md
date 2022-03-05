@@ -321,7 +321,8 @@ Using a HashMap, create a list of the first 16 US Presidents with their full nam
       
 * President's sequence method: 
 
-         
+      This is a special method that will be in your assignment. Try to create a method that iterates through the HashMap 
+      in order. If you are not able to do so, try to figure out why and explain what is occuring.
 
 It is highly recommended that you reference the Java API on HashMaps in order to gain a better understanding on which methods to use. LINK
 
