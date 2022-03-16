@@ -305,14 +305,10 @@ public class Assignment20{
 
 
                 double mathStepFour = originalValue * finalY;
-
-
-                System.out.println(mathStepFour);
                 double mathStepFive = rightConstant - mathStepFour;
-                System.out.println(mathStepFive);
 
                 double finalX = mathStepFive / Coefficient;
-                System.out.println(finalX);
+                System.out.println("x = " + finalX + " and y = " + finalY);
 
             }
 
