@@ -347,7 +347,7 @@ or
 You will want to utilize many string functions and capabilities like trim and split and scan for invalid values. In the end, display the result 
 to the user with the value of their variables. 
 
-UNFINISHED: I got lazy writing this ... just refer to my code to see what I managed to come up with/my assignment.
+* UNFINISHED: I got lazy writing this ... just refer to my code to see what I managed to come up with/my assignment.
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment020.java)
 
