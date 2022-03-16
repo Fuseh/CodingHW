@@ -328,6 +328,18 @@ For these parts, it is highly recommended that you reference the Java API on Has
 
 [Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment019.java)
 
+### 🧊Assignment #20 (Algorithms and Thinking in Code): ▄︻デ3.15.2021══━一  
+
+In this program, you are going to create an equation calculator that will solve for the value of a variable given in the correct format. 
+There are three types of equations that the user can enter: 
+
+1. Single-variable questions (Mx + N = C) --- Solve for x
+2. Quadratic questions (Mx^2 + Nx + C = C1) --- Solve for x/find zeros
+3. Simultaneous-equation questions (Mx + Ny = C) --- Solve for x and y.
+
+Begin by telling the user that you can 
+
+
 ***
 # More assignments to come!
 ***
