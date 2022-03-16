@@ -337,8 +337,19 @@ There are three types of equations that the user can enter:
 2. Quadratic questions (Mx^2 + Nx + C = C1) --- Solve for x/find zeros
 3. Simultaneous-equation questions (Mx + Ny = C) --- Solve for x and y.
 
-Begin by telling the user that you can 
+Make this application quite generic so that you are not forcing users into using a specific format. They should be able to enter values like 
 
+    4x   -6=32
+or 
+
+    5y+4=3 
+    
+You will want to utilize many string functions and capabilities like trim and split and scan for invalid values. In the end, display the result 
+to the user with the value of their variables. 
+
+(UNFINISHED: I got lazy writing this ... just refer to my code to see what I managed to come up with/my assignment).
+
+[Click Here to View My Answer](https://github.com/Fuseh/CodingPractice/blob/master/Assignment020.java)
 
 ***
 # More assignments to come!
